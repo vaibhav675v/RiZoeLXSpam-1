@@ -1,7 +1,7 @@
 {
       "name": "RiZoeL X Spam",
       "description": "Most Powerful And Stable Telegram Spamming Userbots",
-      "logo": "https://telegra.ph/file/db194f99e15db50f43c72.jpg",
+      "logo": "https://telegra.ph/file/93248ec0dc82caf37927d.jpg",
       "keywords": [
         "telegram",
         "telethon",
@@ -9,7 +9,7 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/MrRizoel",
+  "repository": "https://github.com/vaibhav675v",
   "website": "https://github.com/RiZoeLX",
   "success_url": "https://t.me/RiZoeLX",
   "env": {
